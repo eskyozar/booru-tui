@@ -173,7 +173,7 @@ def booru():
 
     # print(client.site_url)
 
-    write("booru-fetcher is a terminal-based booru tool written by eskyozar. It uses safebooru as the client (It is below 18 content)")
+    write("booru-tui is a terminal-based booru tool written by eskyozar. It uses safebooru as the client (It is below 18 content)")
 
     print("")
     print("")
