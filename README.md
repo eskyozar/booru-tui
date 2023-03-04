@@ -1,33 +1,33 @@
 <h1 align="center">Booru-tui</h1>
 
-<p align="center">
+<div align="center">
 
-    <a href="https://github.com/eskyozar/booru-tui/stargazers">
+<a href="https://github.com/eskyozar/booru-tui/stargazers">
 
-        <img alt="Stargazers" src="https://img.shields.io/github/repo-size/eskyozar/booru-tui?style=for-the-badge&color=B5E8E0&logoColor=D9E0EE&labelColor=1e1e2e" />
+<img alt="Stargazers" src="https://img.shields.io/github/repo-size/eskyozar/booru-tui?style=for-the-badge&color=B5E8E0&logoColor=D9E0EE&labelColor=1e1e2e" />
 
-    </a>
+ </a>
 
-    <a href="https://github.com/eskyozar/booru-tui/latest">
+<a href="https://github.com/eskyozar/booru-tui/latest">
 
-        <img src="https://img.shields.io/github/stars/eskyozar/booru-tui?style=for-the-badge&color=cba6f7&logoColor=D9E0EE&labelColor=1e1e2e" />
+<img src="https://img.shields.io/github/stars/eskyozar/booru-tui?style=for-the-badge&color=cba6f7&logoColor=D9E0EE&labelColor=1e1e2e" />
     
-    </a>
+</a>
    
-    <a href="https://github.com/eskyozar/booru-tui/isues">
+<a href="https://github.com/eskyozar/booru-tui/isues">
 
-        <img src="https://img.shields.io/github/issues/eskyozar/booru-tui?style=for-the-badge&logo=gitbook&color=F9E2AF&logoColor=D9E0EE&labelColor=1e1e2e">
+<img src="https://img.shields.io/github/issues/eskyozar/booru-tui?style=for-the-badge&logo=gitbook&color=F9E2AF&logoColor=D9E0EE&labelColor=1e1e2e">
 
-    </a>
+</a>
 
-    <a href="https://github.com/eskyozar/booru-tui/contributors">
+<a href="https://github.com/eskyozar/booru-tui/contributors">
 
-        <img src="https://img.shields.io/github/contributors/eskyozar/booru-tui?style=for-the-badge&logo=Gitea&color=74C7EC&logoColor=D9E0EE&labelColor=1e1e2e">
+<img src="https://img.shields.io/github/contributors/eskyozar/booru-tui?style=for-the-badge&logo=Gitea&color=74C7EC&logoColor=D9E0EE&labelColor=1e1e2e">
 
-    </a>
+ </a>
 
 
-</p>
+</div>
 
 It is a booru tool made for the terminal usage 
 
