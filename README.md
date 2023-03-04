@@ -31,7 +31,8 @@
 
 It is a booru tool made for the terminal usage 
 
-[Video](videos/2023-03-04%2016-57-52.mp4)
+
+https://user-images.githubusercontent.com/91903642/222900153-e8a60d6e-b580-427b-a4a2-c131280dd1fa.mp4
 
 ## Installtion
 
